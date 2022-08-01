@@ -1,1 +1,6 @@
 nba_api
+matplotlib
+seaborn
+pandas
+requests
+json
